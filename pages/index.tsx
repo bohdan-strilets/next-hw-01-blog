@@ -21,10 +21,21 @@ export default function Home({
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>Mango</p>
         <p>
-          (This is a sample website - you’ll be building a site like this in{" "}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam et
+          leo egestas, fermentum quam aliquet, finibus turpis. Donec sed
+          dignissim turpis, a efficitur diam. Aenean varius turpis est, at
+          dapibus justo egestas quis. Sed lacinia lacinia erat aliquam
+          fermentum. Phasellus nulla elit, mollis eu mauris at, laoreet pretium
+          ipsum. Quisque felis sem, ullamcorper ut mattis quis, porttitor vel
+          augue. Nulla convallis mauris et purus gravida, nec euismod odio
+          maximus. In condimentum nec massa vel tristique. Ut suscipit tincidunt
+          odio sed aliquet. Sed ultricies lacus sit amet faucibus efficitur.
+          Vestibulum nec auctor mauris. Nullam egestas enim sed dui faucibus,
+          nec pulvinar eros scelerisque. Praesent enim urna, fermentum quis
+          tincidunt in, semper at diam. Integer sodales sapien massa, nec auctor
+          quam euismod eget. Cras vitae convallis arcu.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
